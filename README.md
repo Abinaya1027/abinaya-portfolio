@@ -1,16 +1,33 @@
-# React + Vite
+# K.K. Abinaya Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modern frontend developer portfolio built using React.js, Tailwind CSS, and Framer Motion.
 
-Currently, two official plugins are available:
+## Live Website
+https://abinaya-portfolio-gray.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+- Responsive modern UI
+- Dark / Light mode
+- Animated transitions
+- Interactive project showcase
+- Contact form with EmailJS
+- Smooth scrolling experience
 
-## React Compiler
+## Technologies Used
+- React.js
+- Vite
+- Tailwind CSS
+- Framer Motion
+- EmailJS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Featured Projects
+- AspireLens
+- Cybersecurity Awareness App
+- Pearl TK Business Website
+- Tato Restaurant Website
+- Diwa Cafe Website
+- HabileSec Website
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/kkabinaya/
+- GitHub: https://github.com/Abinaya1027
