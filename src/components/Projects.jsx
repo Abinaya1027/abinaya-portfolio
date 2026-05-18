@@ -14,7 +14,7 @@ const Projects = () => {
             tech: ["React.js", "Laravel", "MySQL", "Authentication"],
             github: "https://github.com/Abinaya1027/aspirelens-showcase",
             live: "https://www.aspirelens.com/",
-            image: "/src/assets/ProjectImages/AspireLens.png",
+            image: "../assets/ProjectImages/AspireLens.png",
             category: "Application",
             note: true,
         },
@@ -25,7 +25,7 @@ const Projects = () => {
             tech: ["React.js", "Laravel", "REST API", "MySQL"],
             github: "https://github.com/Abinaya1027/cybersecurity-awareness-showcase",
             live: "https://tanikkai.com/",
-            image: "/src/assets/ProjectImages/Cybersecurity Awareness App.png",
+            image: "../assets/ProjectImages/Cybersecurity Awareness App.png",
             category: "Application",
             note: true,
         },
@@ -36,7 +36,7 @@ const Projects = () => {
             tech: ["HTML5", "CSS3", "EmailJS", "AWS"],
             github: "https://github.com/Abinaya1027/pearltk-website-showcase",
             live: "https://pearltk.com/",
-            image: "/src/assets/ProjectImages/PearlTk.png",
+            image: "../assets/ProjectImages/PearlTk.png",
             category: "Website",
         },
 
@@ -47,7 +47,7 @@ const Projects = () => {
             tech: ["HTML5", "CSS3", "EmailJS", "AWS"],
             github: "https://github.com/Abinaya1027/tato-restaurant-showcase",
             live: "YOUR_TATO_LINK",
-            image: "/src/assets/ProjectImages/Tato.png",
+            image: "../assets/ProjectImages/Tato.png",
             category: "Website",
         },
 
@@ -58,7 +58,7 @@ const Projects = () => {
             tech: ["HTML5", "CSS3", "EmailJS", "AWS"],
             github: "https://github.com/Abinaya1027/diwa-cafe-showcase",
             live: "https://diwacafe.com/",
-            image: "/src/assets/ProjectImages/Diwa Cafe.png",
+            image: "../assets/ProjectImages/Diwa Cafe.png",
             category: "Website",
         },
 
@@ -70,7 +70,7 @@ const Projects = () => {
             tech: ["React.js", "Tailwind CSS"],
             github: "https://github.com/Abinaya1027/habilesec-showcase",
             live: "https://www.habilesec.com/",
-            image: "/src/assets/ProjectImages/HabileSec Website.png",
+            image: "../assets/ProjectImages/HabileSec Website.png",
             category: "Website",
         },
 
