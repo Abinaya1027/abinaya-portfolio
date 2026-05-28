@@ -265,7 +265,7 @@ const About = () => {
             {[
               {
                 year: "2025 - Present",
-                title: "Software Developer | Team Lead",
+                title: "Software Developer",
                 company: "Hurix Digital",
                 desc: "Working on responsive web applications, frontend development, UI optimization, API integration, and team collaboration using React.js and modern web technologies.",
               },
