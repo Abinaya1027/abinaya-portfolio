@@ -5,7 +5,7 @@ const Experience = () => {
   const experienceData = [
     {
       company: "Hurix Digital",
-      role: "Software Developer | Team Lead",
+      role: "Software Developer",
       duration: "Apr 2025 - Present",
       description:
         "Leading feature development, mentoring team members, and shipping performant React applications with modern tooling and CI workflows.",
