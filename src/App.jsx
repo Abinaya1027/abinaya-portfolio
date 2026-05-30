@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { Analytics } from "@vercel/analytics/next"
 
 import Loader from "./components/Loader";
 import Home from "./pages/Home";
